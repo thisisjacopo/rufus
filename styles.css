@@ -104,7 +104,6 @@ li {
 }
 
 a.menu {
-  background: white;
   color: black;
   padding: 1px;
   position: relative;
@@ -132,7 +131,7 @@ a.menu {
 #MACBA:hover.menu {
 	padding: 1px;
 	background-color: rgb(19, 18, 18);
-	color: rgb(240, 240, 240);
+	color: rgb(250, 250, 250);
 	cursor: pointer;
 	position: relative;
 	text-decoration: none;
@@ -152,8 +151,8 @@ a.menu {
 
 #MILANO:hover.menu {
 	padding: 1px;
-	background-color: rgb(17, 17, 17);
-	color: rgb(240, 240, 240);
+	background-color: rgb(19, 18, 18);
+	color: rgb(250, 250, 250);
 	cursor: pointer;
 	position: relative;
 	text-decoration: none;
